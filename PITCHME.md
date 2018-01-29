@@ -36,7 +36,15 @@
 
 ---
 
-### Option 2: Data science workbench
+### Option 2: CyVerse CyberInfrastructure
+
+--- 
+
+<img src="assets/data_store.png" height="600">
+
+---
+
+### The Data science workbench
 
 ---
 
@@ -46,6 +54,7 @@
 
 ---
 
+<img src="http://compass.ie/wordpress/media/OSGeo_logo_750_317.png" height="200">
 <img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png" height="200">
 <img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png" height="200">
 
@@ -88,9 +97,7 @@ Don't have the money to buy time on private cloud?
 
 ---
 
-### Option 3: Compute on Cloud w/ CyVerse [Atmosphere](https://cyverse.org/atmosphere)
-
-+++
+#### [Atmosphere](https://cyverse.org/atmosphere)
 
 - Linux (Centos, Ubuntu)
 - 1 CPU  to 16 CPU 
@@ -100,9 +107,6 @@ Don't have the money to buy time on private cloud?
 
 ---
 
-<img src="assets/data_store.png" height="600">
-
----
 
 @title[EZ launch of Docker + RStudio]
 
@@ -126,7 +130,7 @@ Done!
 
 ---
 
-### Option 3: Hybrid cloud + HPC (with containers)
+### Hybrid cloud + HPC (with containers)
 
 ---
 
