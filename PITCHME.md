@@ -20,7 +20,7 @@ twitter: tswetnam
 
 ---
 
-##### Problem: Researchers are too busy to adopt new technologies in a timely manner.
+##### Problem #1: Adoption of new ideas.
 
 <img src="assets/cavemen.jpg" height="400">
 
@@ -35,7 +35,7 @@ Cloud engines already offer compute on massive, long term, data archives
 
 ---
 
-More data every day
+##### Problem #2: More data every day
 
 <img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
 
@@ -132,7 +132,7 @@ Disclaimer: Being awesome with cloud and HPC doesn't just happen out of the box.
 
 ---
 
-@title[Docker RStudio]
+@title[Docker + RStudio]
 
 ## <span style="color: #e49436">Docker + RStudio</span>
 [http://learning.cyverse.org/](http://learning.cyverse.org/)
@@ -140,44 +140,24 @@ Disclaimer: Being awesome with cloud and HPC doesn't just happen out of the box.
 
 ```shell
 $ ezd
-$ sudo usermod -aG docker $USER
-$ exit
-$ docker pull rocker/geospatial
-$ docker run -d -p 8787:8787 rocker/geospatial
+$ sudo docker pull rocker/geospatial
+$ sudo docker run -d -p 8787:8787 rocker/geospatial
 
 Done!
 
 ```
 
-@[1](install Docker)
-@[2](change `sudo` privileges)
-@[3](exit and restart terminal window)
-@[4](pull the Rocker/Geospatial Rstudio-Server from DockerHub)
-@[5](Run the Container in detached mode `-d` on port `-p 8787:8787`)
-@[7](Open the Instance's IP address w/ port number in a new browser window)
+@[1](installs Docker with an Ansible Playbook)
+@[2](pull the Rocker/Geospatial Rstudio-Server from DockerHub)
+@[3](Run the Container in detached mode `-d` on port `-p 8787:8787`)
+@[4](Open the Instance's IP address w/ port number in a new browser window)
 
 ---
 
-@title[QGIS-GRASS-RStudio native build]
+<img src="assets/singularity.png" height="400">
 
-## <span style="color: #e49436">QGIS + GRASS + RStudio</span>
-<br>
+---
 
-```shell
-$ git clone https://github.com/cyverse-gis/focus-forum.git
-$ cd focus-forum/atmo
-$ . install_qgis.sh
-$ . build_grass.sh
-$ . install_rstudio.sh
-
-```
-
-@[1](Clone a public Github Repo)
-@[2](Change into the directory with the installation scripts)
-@[3](Install QGIS)
-@[4](Build GRASS 7.2 from source)
-@[5](Install RStudio)
-@[6](Open the Instance's IP address w/ port number in a new browser window)
-@[7](Launch Web Desktop with Apache Guacamole)
+<img src="assets/singularity_workflow.png" height="400">
 
 ---
