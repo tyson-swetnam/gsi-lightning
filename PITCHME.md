@@ -22,7 +22,7 @@ twitter: tswetnam
 
 ##### Problem: Researchers are too busy to adopt new technologies in a timely manner.
 
-<img src="assets/cavemen.jpg" height="500">
+<img src="assets/cavemen.jpg" height="400">
 
 Credit: http://bjoern.brembs.net/2018/01/why-academic-journals-need-to-go/ 
 ---
