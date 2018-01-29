@@ -145,6 +145,6 @@ Done!
 
 ---
 
-<img src="assets/singularity_workflow.png" height="500">
+<img src="assets/singularity_workflow.png">
 
 ---
