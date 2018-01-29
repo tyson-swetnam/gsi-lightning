@@ -20,17 +20,17 @@ twitter: tswetnam
 
 ---
 
-Online cloud-based engines already offer compute on massive, long term data archives
+Cloud-based engines already offer compute on massive, long term, data archives
 
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250"><img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
-<img src="http://uwm.edu/software/wp-content/uploads/sites/76/2015/10/Big_ArcGIS_Online_logo.png" height="250">
+<img src="http://uwm.edu/software/wp-content/uploads/sites/76/2015/10/Big_ArcGIS_Online_logo.png" height="200">
 
 ---
 
 More data all the time
 
-<img src="assets/imagery/planet.png" height="250"><img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
+<img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
 
 Planet Labs: daily 3m global coverage; sub meter lidar and sfm at local scale from national repositories.
 
