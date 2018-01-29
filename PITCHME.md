@@ -1,6 +1,6 @@
 ---
 
-<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Cyberinfrastructure for scientific reproducibility in data-intensive geospatial research andeducation</span>
+<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Cyberinfrastructure for scientific reproducibility in data-intensive geospatial research and education</span>
 
 ###### January 29, 2018 
 ###### Tyson Lee Swetnam
