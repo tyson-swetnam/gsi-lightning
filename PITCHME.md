@@ -16,15 +16,16 @@
 
 ---
 
-##### Computational Problems: data, data, everywhere
+##### Data are everywhere...
 
 <img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
 <img src="assets/planet.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
 
 ---
 
-How can I utilize these platforms and data at different scale?
+##### The REAL problem: training researchers how to utilize these platforms and data
 
+"... PIs said the most pressing unmet needs are training in data integration, data management, and scaling analyses for HPC—acknowledging that data science skills will be required to build a deeper understanding of life." - [Barone et al. 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005755)
 ---
 
 ### Option 1: Cloud engines
