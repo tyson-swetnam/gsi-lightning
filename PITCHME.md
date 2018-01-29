@@ -46,7 +46,7 @@ Wow! That's a lot of data and computing power!
 
 ---
 
-How do I utilize these platforms and data at different scale?
+How do I utilize these platforms and data at different scale on CyVerse??
 
 ---
 
@@ -98,7 +98,7 @@ How do we make this all work together?
 ---
 
 Don't have the money to buy time on private cloud?
-<img src="assets/imagery/aws.png" height="500">
+<img src="assets/aws.png" height="500">
 
 ---
 
@@ -142,7 +142,7 @@ Done!
 @[1](installs Docker with an Ansible Playbook)
 @[2](pull the Rocker/Geospatial Rstudio-Server from DockerHub)
 @[3](Run the Container in detached mode `-d` on port `-p 8787:8787`)
-@[4](Open the Instance's IP address w/ port number in a new browser window)
+@[5](Open the Instance's IP address w/ port number in a new browser window)
 
 ---
 
