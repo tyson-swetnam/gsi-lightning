@@ -1,10 +1,10 @@
 ---
 
-<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Leveraging CyVerse for GIS on HPC and Cloud</span>
+<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Cyberinfrastructure for scientific reproducibility in data-intensive geospatial research andeducation</span>
 
-###### November 15, 2017
+###### January 29, 2018 
 ###### Tyson Lee Swetnam
-###### Science Informatician
+###### CyVerse
 
 ---
 
@@ -20,32 +20,37 @@ twitter: tswetnam
 
 ---
 
-### GIS beyond my laptop or desktop 
-
----
-
-Online GIS engines 
+Online cloud-based engines already offer compute on massive, long term data archives
 
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250"><img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
+<img src="http://uwm.edu/software/wp-content/uploads/sites/76/2015/10/Big_ArcGIS_Online_logo.png" height="250">
+
 ---
 
-Massive amounts of data are online
+More data all the time
 
 <img src="assets/imagery/planet.png" height="250"><img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
 
+Planet Labs: daily 3m global coverage; sub meter lidar and sfm at local scale from national repositories.
 
 ---
 
-Well, that's cool, but...
+Wow! That's a lot of data and computing power! 
+
+but...
 
 ---
 
-How can I use these platforms and data for my research?
+How do I utilize those platforms and data at scale?
 
 ---
 
-Build my own GIS Data Scientist workbench!
+### Option 1: Use a GIS data science workbench
+
+---
+
+Sounds great, what is a data science workbench?
 
 ---
 
@@ -62,15 +67,15 @@ Build my own GIS Data Scientist workbench!
 
 ---
 
-### A Data Science Workbench allows me to: 
+### A Data Science Workbench allows you to:
 
-- Send my algorithms to the data and compute <!-- .element: class="fragment" -->
-- Work in my preferred environment, language, and libraries <!-- .element: class="fragment" -->
+- Send your algorithms to the data and compute <!-- .element: class="fragment" -->
+- Work in your preferred environment, language, and libraries <!-- .element: class="fragment" -->
   - Python, R, C++, Matlab, Spark, etc. <!-- .element: class="fragment" -->
 
 ---
 
-Moving my preferred software stack to the cloud or HPC...
+How do we make this all work together?
 
 ---
 
@@ -90,7 +95,7 @@ Moving my preferred software stack to the cloud or HPC...
 
 ---
 
-I don't have money to buy time on AWS...
+Don't have the money to buy time on private cloud?
 <img src="assets/imagery/aws.png" height="500">
 
 ---
@@ -107,7 +112,7 @@ I don't have money to buy time on AWS...
 
 ---
 
-Being awesome with cloud and HPC doesn't just happen
+Disclaimer: Being awesome with cloud and HPC doesn't just happen out of the box. 
 
 <img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
 
