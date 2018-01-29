@@ -27,7 +27,7 @@ twitter: tswetnam
 Credit: http://bjoern.brembs.net/2018/01/why-academic-journals-need-to-go/ 
 ---
 
-Cloud engines already offer compute on massive, long term, data archives
+Cloud engines offer compute on massive, long term, data archives
 
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250"><img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
@@ -38,11 +38,7 @@ Cloud engines already offer compute on massive, long term, data archives
 ##### Problem #2: More data every day
 
 <img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
-
-Planet Labs: daily global coverage @3m; sub meter lidar and sfm at local scale from national repositories.
-
 <img src="assets/planet.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
-
 
 ---
 
@@ -50,15 +46,11 @@ Wow! That's a lot of data and computing power!
 
 ---
 
-How do I utilize those platforms and data at scale?
+How do I utilize these platforms and data at different scale?
 
 ---
 
 ### Option 1: Use a GIS data science workbench
-
----
-
-Sounds great, what is a data science workbench?
 
 ---
 
@@ -110,7 +102,7 @@ Don't have the money to buy time on private cloud?
 
 ---
 
-## CyVerse [Atmosphere](https://cyverse.org/atmosphere)
+### Option 2: CyVerse [Atmosphere](https://cyverse.org/atmosphere)
 
 +++
 
