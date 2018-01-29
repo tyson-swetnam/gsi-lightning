@@ -137,7 +137,9 @@ Done!
 
 ---
 
-### Option 3: Hybrid cloud and HPC with Containers
+### Option 3: Hybrid: cloud + HPC with containers
+
+---
 
 <img src="assets/singularity.png">
 
