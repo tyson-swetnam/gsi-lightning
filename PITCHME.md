@@ -4,19 +4,7 @@
 
 ###### January 29, 2018 
 ###### Tyson Lee Swetnam
-###### CyVerse
-
----
-
-### Contact
-
-[http://www.cyverse.org/](http://www.cyverse.org/)
-
-email: tswetnam@cyverse.org
-
-github: tyson-swetnam
-
-twitter: tswetnam
+###### CyVerse University of Arizona
 
 ---
 
@@ -146,5 +134,17 @@ Done!
 ---
 
 <img src="assets/singularity_workflow.png">
+
+---
+
+### Contact Me
+
+[http://www.cyverse.org/](http://www.cyverse.org/)
+
+email: tswetnam@cyverse.org
+
+github: tyson-swetnam
+
+twitter: tswetnam
 
 ---
