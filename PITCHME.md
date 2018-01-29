@@ -20,14 +20,25 @@ twitter: tswetnam
 
 ---
 
-##### Problem #1: Adoption of new ideas.
+##### Institutional Problem: Adoption of new ideas.
 
 <img src="assets/cavemen.jpg" height="400">
 
-Credit: http://bjoern.brembs.net/2018/01/why-academic-journals-need-to-go/ 
+<sub>Credit: http://bjoern.brembs.net/2018/01/why-academic-journals-need-to-go/ </sub>
 ---
 
-Cloud engines offer compute on massive, long term, data archives
+##### Computational Problems: data, data, everywhere
+
+<img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
+<img src="assets/planet.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
+
+---
+
+How can I utilize these platforms and data at different scale?
+
+---
+
+### Option 1: Cloud engines
 
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250"><img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
@@ -35,28 +46,11 @@ Cloud engines offer compute on massive, long term, data archives
 
 ---
 
-##### Problem #2: More data every day
-
-<img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
-<img src="assets/planet.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
+### Option 2: Data science workbench
 
 ---
 
-Wow! That's a lot of data and computing power! 
-
----
-
-How do I utilize these platforms and data at different scale on CyVerse??
-
----
-
-### Option 1: Use a GIS data science workbench
-
----
-
-<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
-
-<img src="assets/binder.svg" height="150">
+<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150"><img src="assets/binder.svg" height="150">
 
 ---
 
@@ -102,7 +96,7 @@ Don't have the money to buy time on private cloud?
 
 ---
 
-### Option 2: CyVerse [Atmosphere](https://cyverse.org/atmosphere)
+### Option 3: Compute on Cloud w/ CyVerse [Atmosphere](https://cyverse.org/atmosphere)
 
 +++
 
@@ -139,6 +133,8 @@ Done!
 @[5](Open the Instance's IP address w/ port number in a new browser window)
 
 ---
+
+### Option 3: Hybrid cloud and HPC with Containers
 
 <img src="assets/singularity.png">
 
