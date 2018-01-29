@@ -118,13 +118,7 @@ Don't have the money to buy time on private cloud?
 
 ---
 
-Disclaimer: Being awesome with cloud and HPC doesn't just happen out of the box. 
-
-<img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
-
----
-
-@title[Docker + RStudio]
+@title[EZ launch of Docker + RStudio]
 
 ## <span style="color: #e49436">Docker + RStudio</span>
 [http://learning.cyverse.org/](http://learning.cyverse.org/)
@@ -146,10 +140,10 @@ Done!
 
 ---
 
-<img src="assets/singularity.png" height="400">
+<img src="assets/singularity.png">
 
 ---
 
-<img src="assets/singularity_workflow.png" height="400">
+<img src="assets/singularity_workflow.png" height="500">
 
 ---
