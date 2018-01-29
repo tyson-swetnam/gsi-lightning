@@ -137,7 +137,7 @@ Done!
 
 ---
 
-### Option 3: Hybrid: cloud + HPC with containers
+### Option 3: Hybrid cloud + HPC (with containers)
 
 ---
 
