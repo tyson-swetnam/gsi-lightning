@@ -20,7 +20,9 @@ twitter: tswetnam
 
 ---
 
-<img src="assets/cavemen.png" height="500">
+Problem: Researchers are too busy to adopt new technologies in a timely manner.
+
+<img src="assets/cavemen.jpg" height="500">
 
 ---
 
@@ -37,6 +39,7 @@ More data all the time
 <img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
 
 Planet Labs: daily 3m global coverage; sub meter lidar and sfm at local scale from national repositories.
+
 <img src="assets/planet.png" height="250">
 ---
 
