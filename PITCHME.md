@@ -25,6 +25,7 @@ twitter: tswetnam
 <img src="assets/cavemen.jpg" height="400">
 
 <sub>Credit: http://bjoern.brembs.net/2018/01/why-academic-journals-need-to-go/ </sub>
+
 ---
 
 ##### Computational Problems: data, data, everywhere
