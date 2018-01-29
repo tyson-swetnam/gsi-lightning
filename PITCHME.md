@@ -51,7 +51,8 @@ How can I utilize these platforms and data at different scale?
 
 ---
 
-<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150"><img src="assets/binder_logo.png" height="150">
+<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
+<img src="assets/binder_logo.png" height="150">
 
 ---
 
