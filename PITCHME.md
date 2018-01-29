@@ -122,6 +122,10 @@ Don't have the money to buy time on private cloud?
 
 ---
 
+<img src="assets/data_store.png" height="600">
+
+---
+
 Disclaimer: Being awesome with cloud and HPC doesn't just happen out of the box. 
 
 <img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
@@ -175,9 +179,5 @@ $ . install_rstudio.sh
 @[5](Install RStudio)
 @[6](Open the Instance's IP address w/ port number in a new browser window)
 @[7](Launch Web Desktop with Apache Guacamole)
-
----
-
-<img src="assets/cyverse.png" height="600">
 
 ---
