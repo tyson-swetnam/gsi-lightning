@@ -20,13 +20,14 @@ twitter: tswetnam
 
 ---
 
-Problem: Researchers are too busy to adopt new technologies in a timely manner.
+##### Problem: Researchers are too busy to adopt new technologies in a timely manner.
 
 <img src="assets/cavemen.jpg" height="500">
 
+Credit: http://bjoern.brembs.net/2018/01/why-academic-journals-need-to-go/ 
 ---
 
-Cloud-based engines already offer compute on massive, long term, data archives
+Cloud engines already offer compute on massive, long term, data archives
 
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250"><img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
@@ -34,18 +35,18 @@ Cloud-based engines already offer compute on massive, long term, data archives
 
 ---
 
-More data all the time
+More data every day
 
-<img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
+<img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
 
-Planet Labs: daily 3m global coverage; sub meter lidar and sfm at local scale from national repositories.
+Planet Labs: daily global coverage @3m; sub meter lidar and sfm at local scale from national repositories.
 
-<img src="assets/planet.png" height="250">
+<img src="assets/planet.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
+
+
 ---
 
 Wow! That's a lot of data and computing power! 
-
-but...
 
 ---
 
@@ -62,6 +63,8 @@ Sounds great, what is a data science workbench?
 ---
 
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
+
+<img src="assets/binder.svg" height="150">
 
 ---
 
