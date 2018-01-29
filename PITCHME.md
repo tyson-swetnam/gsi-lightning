@@ -8,11 +8,11 @@
 
 ---
 
-##### Institutional Problem: Adoption of new ideas.
+##### Institutional Problems
 
 <img src="assets/cavemen.jpg" height="400">
 
-##### Credit: http://bjoern.brembs.net/2018/01/why-academic-journals-need-to-go/
+###### Credit: http://bjoern.brembs.net/2018/01/why-academic-journals-need-to-go/
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-##### The REAL problem: training researchers how to utilize these platforms and data
+##### The REAL problem: training researchers
 
 "... PIs said the most pressing unmet needs are training in data integration, data management, and scaling analyses for HPC—acknowledging that data science skills will be required to build a deeper understanding of life." - [Barone et al. 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005755)
 ---
