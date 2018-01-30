@@ -142,10 +142,6 @@ Done!
 
 ---
 
-example VM https://atmo.cyverse.org/application/projects/6205/instances/36593
-
----
-
 ### Contact Me
 
 [http://www.cyverse.org/](http://www.cyverse.org/)
